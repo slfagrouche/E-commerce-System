@@ -1,4 +1,4 @@
-# Simple E-commerce System
+# The E-commerce System
 
 The E-commerce System! this is a basic Python project that simulates a simple online shopping experience. Users can add products to their shopping cart, view the cart, and complete the purchase.
 
