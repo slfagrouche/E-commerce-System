@@ -5,7 +5,7 @@ The E-commerce System! this is a Python project that simulates a simple online s
 ## How to Use
 
 1. Clone the repository to your local machine using the following command:
-    git clone https://github.com/your-username/SimpleEcommerceSystem.git
+    git clone https://github.com/slfagrouche/SimpleEcommerceSystem.git
 
 2. Navigate to the project directory:
     cd SimpleEcommerceSystem
